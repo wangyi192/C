@@ -4,4 +4,5 @@
 输入DFA
 ![image](https://user-images.githubusercontent.com/71179167/158041762-12e5e7fe-9c0f-43c3-8f99-b00e6600f418.png)
 输出：
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/71179167/158041790-c746ebf1-b595-49bc-b4cd-eae7585fc41f.png)
+
